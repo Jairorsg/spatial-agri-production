@@ -1,4 +1,4 @@
-# AgroSpatial-ML: Geospatial Analysis & Predictive Modeling of Quinoa Yields
+# Agrospatial-ML descubrimiento de microclimas y predicción de rendimientos mediante inteligencia artificial
 
 [![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
